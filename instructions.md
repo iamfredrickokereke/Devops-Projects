@@ -1,3 +1,5 @@
+## These are steps to implement this project
+
 ec2 - ubuntu 20 hvm
 pem -ppk
 use public ip on putty
