@@ -1,15 +1,15 @@
 
-#WEB STACK-IMPLEMENTATION (LEMP)
+# WEB STACK-IMPLEMENTATION (LEMP)
 
  The goal of this project is to describe the concepts of Continuous Integration, Continuous Delivery / Deployment and DevOps on a Lemp web stack.
  if you have followed the other project one, I am sure you know what a stack is. Today we will work with the LEMP STACK.
 LEMP => LINUX, NGINX, MySQL, PHP
 *nginx IS PRONOUNCED  "enginX"
  
-##Tldr;
-###Video link
+## Tldr;
+### Video link
 
-##Prerequisites:
+## Prerequisites:
 •	Aws account running an EC2 instance
 •	Internet connection
 •	Fundamental Knowledge of downloading and installing
@@ -21,7 +21,7 @@ LEMP => LINUX, NGINX, MySQL, PHP
 
 
 
-##Implementation
+## Implementation
 
 •	Open your PC browser and login to https://aws.amazon.com/
 
