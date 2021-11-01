@@ -1,5 +1,5 @@
 # Devops-webstack-implementation
-These projects describes the concepts of Continuous Integration, Continuous Delivery while implementing various web stacks.
+These projects describes the concepts of Continuous Integration, Continuous Delivery on various web stacks.
 
 
 #### Documentation for this project is still in progress
